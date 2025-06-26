@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Edica Discovery!
 
-<!--
-**edica-discovery/edica-discovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate **Data Science student** on a mission to turn data into insights and ideas into impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📊 Currently diving deep into **machine learning**, **Python**, and **real-world data projects**
+- 🔬 Exploring the intersections of **statistics**, **programming**, and **problem-solving**
+- 💡 Learning by building: I believe in the power of hands-on projects to master complex concepts
+- 🌱 Currently learning: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, and `TensorFlow`
+- ✍️ Documenting my journey as I grow into a full-fledged data scientist
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: Python, SQL, Markdown
+- **Tools & Libraries**: Jupyter Notebook, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Platforms**: Google Colab, Kaggle, GitHub
+
+---
+
+## 📌 Projects (Coming Soon!)
+
+> I'm currently working on beginner-to-intermediate level data science projects. These will soon include:
+- 📈 Data analysis projects using real-world datasets
+- 🧠 Basic machine learning models
+- 🤖 Predictive analytics with scikit-learn
+- 🌍 Data visualizations and dashboards
+
+Stay tuned — I’ll be sharing all of these soon!
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/) (Add your link here)
+- 🧠 [Kaggle](https://www.kaggle.com/) (Add your link here)
+- 📨 Reach me at: your.email@example.com
+
+---
+
+### 🔄 Always Learning. Always Building. Always Curious.
+
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+
+---
+
+![Edica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edica-Discovery&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edica-Discovery&layout=compact&theme=radical)
+
