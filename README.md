@@ -22,24 +22,24 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img1.jpg?raw=true" width="150"/>
+      <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="150"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img2.jpg?raw=true" width="150"/>
+      <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="150"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img3.jpg?raw=true" width="150"/>
+      <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="150"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img4.jpg?raw=true" width="150"/>
+      <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="150"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img5.jpg?raw=true" width="150"/>
+      <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="150"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img6.jpg?raw=true" width="150"/>
+      <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="150"/>
     </td>
   </tr>
 </table>
