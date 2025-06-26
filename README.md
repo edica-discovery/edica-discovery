@@ -12,33 +12,25 @@
 - 📊 Currently diving deep into **machine learning**, **Python**, and **real-world data projects**
 - 🔬 Exploring the intersections of **statistics**, **programming**, and **problem-solving**
 - 💡 Learning by building: I believe in the power of hands-on projects to master complex concepts
-- 🌱 Currently learning: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, and `TensorFlow`
+- 🌱 Currently learning: Pandas, NumPy, Scikit-learn, Matplotlib, and TensorFlow
 - ✍️ Documenting my journey as I grow into a full-fledged data scientist
 
 ---
 
 ## 🖼 Gallery of Learning Moments
 
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
-</p>
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
-</p>
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
-</p>
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
-</p>
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
-</p>
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
-</p>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 250px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 250px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 250px; border-radius: 8px;" />
+
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 250px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 250px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 250px; border-radius: 8px;" />
+
+</div>
 
 ---
 
