@@ -1,7 +1,7 @@
 <!-- Optional Banner -->
 <!-- ![Banner](https://github.com/Edica-Discovery/Edica-Discovery/blob/main/banner.jpg?raw=true) -->
 
-# 👋 Hi, I'm Edica Discovery!
+Edica Discovery!, Your Next AI Founder
 
 🎓 A passionate **Data Science student** on a mission to turn data into insights and ideas into impact.
 
