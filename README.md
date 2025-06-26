@@ -1,5 +1,5 @@
-<!-- Profile Banner -->
-![Banner](https://github.com/Edica-Discovery/Edica-Discovery/blob/main/506038039_1414905706361398_4915908464290083767_n.jpg?raw=true)
+<!-- Optional Banner -->
+<!-- ![Banner](https://github.com/Edica-Discovery/Edica-Discovery/blob/main/banner.jpg?raw=true) -->
 
 # 👋 Hi, I'm Edica Discovery!
 
@@ -14,6 +14,35 @@
 - 💡 Learning by building: I believe in the power of hands-on projects to master complex concepts
 - 🌱 Currently learning: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, and `TensorFlow`
 - ✍️ Documenting my journey as I grow into a full-fledged data scientist
+
+---
+
+## 🖼 Gallery of Learning Moments
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img1.jpg?raw=true" width="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img2.jpg?raw=true" width="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img3.jpg?raw=true" width="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img4.jpg?raw=true" width="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img5.jpg?raw=true" width="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Edica-Discovery/Edica-Discovery/blob/main/img6.jpg?raw=true" width="150"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,8 +61,6 @@
 - 🧠 Basic machine learning models
 - 🤖 Predictive analytics with scikit-learn
 - 🌍 Data visualizations and dashboards
-
-Stay tuned — I’ll be sharing all of these soon!
 
 ---
 
