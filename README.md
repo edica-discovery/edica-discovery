@@ -19,20 +19,25 @@
 
 ## 🖼 Gallery of Learning Moments
 
-
-## 🖼 Gallery of Learning Moments
-
 <p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="margin: 1%;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="margin: 1%;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="margin: 1%;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
+</p>
+<p align="center">
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
+</p>
+<p align="center">
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
+</p>
+<p align="center">
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
+</p>
+<p align="center">
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
+</p>
+<p align="center">
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%">
 </p>
 
-<p align="center">
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="margin: 1%;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="margin: 1%;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="margin: 1%;" />
-</p>
 
 
 ---
