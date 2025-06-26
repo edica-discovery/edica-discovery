@@ -1,3 +1,6 @@
+<!-- Profile Banner -->
+![Banner](https://github.com/Edica-Discovery/Edica-Discovery/blob/main/506038039_1414905706361398_4915908464290083767_n.jpg?raw=true)
+
 # 👋 Hi, I'm Edica Discovery!
 
 🎓 A passionate **Data Science student** on a mission to turn data into insights and ideas into impact.
@@ -51,4 +54,3 @@ Stay tuned — I’ll be sharing all of these soon!
 ![Edica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edica-Discovery&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edica-Discovery&layout=compact&theme=radical)
-
