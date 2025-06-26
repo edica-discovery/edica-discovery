@@ -26,7 +26,7 @@
   <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
   <img src="drone1.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
   <img src="national-science.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
-  <img src="iot.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
+  <img src="Iot.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
 </div>
 
 ---
