@@ -20,7 +20,7 @@
 
 ---
 
-## 🖼️ Gallery of Learning Moments
+## 🖼️ Art of Discovery
 
 <div align="center">
   <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
