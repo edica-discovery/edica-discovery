@@ -22,9 +22,9 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 350px; border-radius: 8px;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 350px; border-radius: 8px;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 350px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 450px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 450px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="30%" style="max-width: 450px; border-radius: 8px;" />
 </div>
 
 ---
