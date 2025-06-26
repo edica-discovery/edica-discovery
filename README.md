@@ -1,67 +1,72 @@
 <!-- Optional Banner -->
 <!-- ![Banner](https://github.com/Edica-Discovery/Edica-Discovery/blob/main/banner.jpg?raw=true) -->
 
-Edica Discovery!, Your Next AI Founder
+<h1 align="center" style="color: purple;">⚡ Edica Discovery</h1>
+<h3 align="center"><em>Your Next AI Founder</em></h3>
 
-🎓 A passionate **Data Science student** on a mission to turn data into insights and ideas into impact.
+<p align="center">
+🎓 A passionate <strong>Data Science student</strong> on a mission to turn data into insights and ideas into impact.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Currently diving deep into **machine learning**, **Python**, and **real-world data projects**
-- 🔬 Exploring the intersections of **statistics**, **programming**, and **problem-solving**
-- 💡 Learning by building: I believe in the power of hands-on projects to master complex concepts
-- 🌱 Currently learning: Pandas, NumPy, Scikit-learn, Matplotlib, and TensorFlow
-- ✍️ Documenting my journey as I grow into a full-fledged data scientist
+- 📊 Currently diving deep into **Machine Learning**, **Python**, and **Real-World Data Projects**
+- 🔬 Exploring the intersections of **Statistics**, **Programming**, and **Problem-Solving**
+- 💡 Hands-on learning: building projects to master complex ideas
+- 🌱 Currently learning: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `TensorFlow`
+- ✍️ Sharing my journey to becoming a full-fledged **Data Scientist**
 
 ---
 
-## 🖼 Gallery of Learning Moments
+## 🖼️ Gallery of Learning Moments
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="45%" style="max-width: 450px; border-radius: 8px;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="45%" style="max-width: 450px; border-radius: 8px;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="45%" style="max-width: 450px; border-radius: 8px;" />
-  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="45%" style="max-width: 450px; border-radius: 8px;" />
+<div align="center">
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
+  <img src="506038039_1414905706361398_4915908464290083767_n.jpg?raw=true" width="100%" style="max-width: 500px; border-radius: 8px;" />
 </div>
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 Tech Stack
 
-- **Languages**: Python, SQL, Markdown
-- **Tools & Libraries**: Jupyter Notebook, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Platforms**: Google Colab, Kaggle, GitHub
+- 💻 **Languages**: `Python`, `SQL`, `Markdown`
+- 📦 **Libraries/Tools**: `Jupyter`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+- ☁️ **Platforms**: `Google Colab`, `Kaggle`, `GitHub`
 
 ---
 
-## 📌 Projects (Coming Soon!)
+## 📌 Projects (Coming Soon)
 
-> I'm currently working on beginner-to-intermediate level data science projects. These will soon include:
-- 📈 Data analysis projects using real-world datasets
-- 🧠 Basic machine learning models
-- 🤖 Predictive analytics with scikit-learn
-- 🌍 Data visualizations and dashboards
+> I'm currently building beginner-to-intermediate level data science projects:
+
+- 📈 **Data Analysis** with real-world datasets
+- 🤖 **Machine Learning Models** using `Scikit-learn`
+- 🔍 **Predictive Analytics** from trends and patterns
+- 📊 **Data Visualization Dashboards** using `Matplotlib` & `Seaborn`
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) (Add your link here)
-- 🧠 [Kaggle](https://www.kaggle.com/) (Add your link here)
-- 📨 Reach me at: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/) (Add your profile link)
+- 🧠 [Kaggle](https://www.kaggle.com/) (Add your Kaggle link)
+- 📬 Reach me at: `your.email@example.com`
 
 ---
 
 ### 🔄 Always Learning. Always Building. Always Curious.
 
-> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+> 🧪 _“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee_
 
 ---
 
-![Edica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edica-Discovery&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edica-Discovery&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edica-Discovery&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edica-Discovery&layout=compact&theme=radical" width="49%" />
+</p>
